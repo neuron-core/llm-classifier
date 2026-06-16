@@ -1,0 +1,14 @@
+.idea
+vendor
+composer.lock
+*.cache
+.store
+.php-cs-fixer.cache
+.claude
+.junie
+.env
+phpunit.xml.local
+# generated calibration artifacts (datasets/*.csv are tracked; the model is not)
+storage
+/**/*.bin
+/**/*.vec
