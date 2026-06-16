@@ -46,7 +46,7 @@ premium one — automatically.
 composer require neuron-core/llm-classifier
 ```
 
-Requires just PHP 81 + `ext-mbstring`. It works with any provider through
+Requires just PHP 8.1 + `ext-mbstring`. It works with any provider through
 [neuron-ai](https://github.com/neuron-core/neuron-ai) (OpenAI, Anthropic, Gemini,
 Mistral, Ollama, …).
 
