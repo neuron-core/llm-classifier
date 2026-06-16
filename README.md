@@ -43,7 +43,7 @@ premium one — automatically.
 ## Install
 
 ```bash
-composer require neuron-core/classifier
+composer require neuron-core/llm-classifier
 ```
 
 Requires PHP 8.2+ and `ext-mbstring`. It works with any provider through
