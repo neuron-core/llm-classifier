@@ -256,7 +256,7 @@ in the project README.
 A **1,845-row** sample derived from the public
 [**RouterBench**](https://huggingface.co/datasets/withmartian/routerbench) benchmark
 (`withmartian/routerbench`, 0-shot variant). RouterBench records, for ~36k prompts, whether
-each of 11 LLMs (`gpt-4-1106-preview`, `gpt-3.5-turbo-1106`, `claude-v2`, `claude-v1`,
+each of 11 of the most used LLMs (`gpt-4-1106-preview`, `gpt-3.5-turbo-1106`, `claude-v2`, `claude-v1`,
 `claude-instant-v1`, `mistralai/mixtral-8x7b-chat`, `mistralai/mistral-7b-chat`,
 `meta/llama-2-70b-chat`, `meta/code-llama-instruct-34b-chat`, `zero-one-ai/Yi-34B-Chat`,
 `WizardLM/WizardLM-13B-V1.2`) answered correctly. We turn that into one label per prompt.
