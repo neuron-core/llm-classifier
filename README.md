@@ -245,9 +245,7 @@ prompt, capability, reference_type, reference, grader, difficulty
 ```
 
 Because every row carries a `difficulty` label, calibration needs **no model panel and
-no graders** — only a fastText vector file. See
-[*Cold-starting from a routing benchmark*](../README.md#cold-starting-from-a-routing-benchmark)
-in the project README.
+no graders** — only a fastText vector file.
 
 ---
 
